@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	"proxy/v1/proxy"
-	"proxy/v1/server"
+	"traffic.proxy/v1/proxy"
+	"traffic.proxy/v1/server"
 	"syscall"
 
 	"github.com/Sirupsen/logrus"
