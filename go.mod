@@ -1,4 +1,4 @@
-module proxy/v1
+module traffic.proxy/v1
 
 go 1.13
 
