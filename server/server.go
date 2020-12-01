@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"proxy/v1/proxy"
+	"traffic.proxy/v1/proxy"
 	"sync"
 
 	"github.com/Sirupsen/logrus"
